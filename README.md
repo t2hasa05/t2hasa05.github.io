@@ -1,4 +1,4 @@
-# Tervetuloa!
+# Tervetuloa
 
 Tämä on kurssitehtäväni Pilvipalvelut-kurssille
 
